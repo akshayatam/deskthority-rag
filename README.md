@@ -1,8 +1,8 @@
-# Vintage Wiki RAG
+# Deskthority RAG
 
 **A citation-first AI research assistant for vintage mechanical keyboards.**
 
-Vintage Wiki RAG transforms community-maintained keyboard documentation into searchable, verifiable technical knowledge using hybrid retrieval, local language models, and Agentic RAG.
+Deskthority RAG transforms community-maintained keyboard documentation into searchable, verifiable technical knowledge using hybrid retrieval, local language models, and Agentic RAG.
 
 **Status:** In development  
 **Initial scope:** Alps SKCL/SKCM switch documentation from the MK Wiki  
