@@ -7,7 +7,15 @@ authors = [
     { name = "Akshay Atam", email = "akshay.atam@gmail.com" }
 ]
 requires-python = ">=3.14"
-dependencies = []
+dependencies = [
+    "beautifulsoup4>=4.15.0",
+    "httpx>=0.28.1",
+    "langchain>=1.5.2",
+    "langchain-community>=0.4.2",
+    "langchain-ollama>=1.2.0",
+    "langchain-text-splitters>=1.2.0",
+    "markdownify>=1.2.4",
+]
 
 [project.scripts]
 deskthority-rag = "deskthority_rag:main"
